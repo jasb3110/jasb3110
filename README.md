@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jasb3110- 👀 I’m interested in fluctuatation of fish populations off the central coast of Peru during Termination 1(LGM to Holocene). how do deoxygenation and low productivity affect fish distribution? It was estimated for fish remains (scales and vertebrae) preserved.
+- 🌱 I’m currently learning python to apply in paleo-ecology models.
+- 💞️ I’m looking to collaborate on recreate fish poblation in past marine environment.
+- 📫 How to reach me to send email solisbenites.jose@gmail.com
